@@ -8,7 +8,7 @@ Also a Photographer wanna be (also check my microstock,i've been selling backgro
 Frequently online on
 
 <a href="https://www.instagram.com/lumirenz" target="_blank"><img height="60px" width="70px" src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-1.png"></a>
-<a href="https://www.shutterstock.com/g/Akhmad+Ridlo" target="_blank"><img height="20px" width="100px" src="https://cdn.freebiesupply.com/logos/large/2x/shutterstock-logo-png-transparent.png"></a>
+<a href="https://www.shutterstock.com/g/Akhmad+Ridlo" target="_blank"><img height="40px" width="175px" src="https://cdn.freebiesupply.com/logos/large/2x/shutterstock-logo-png-transparent.png"></a>
 
 
 <!--
