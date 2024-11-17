@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Cloud Engine, Database Management**
 
-- 👨‍💻 All of my projects are available at [akhmdrdlo.github.io/portfolio](akhmdrdlo.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [akhmdrdlo.github.io/portfolio/](akhmdrdlo.github.io/portfolio/)
 
 - 📫 How to reach me **akhmadd432@gmail.com**
 
